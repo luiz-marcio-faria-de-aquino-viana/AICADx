@@ -55,7 +55,7 @@ https://youtu.be/F4fCmqHnGRM
 
 # CONTATO
 
-CONTACT ME, IF YOU NEED HELP OR HAVE ANY QUESTIONS ABOUT THIS ACADEMIC WORK!
+CONTACT ME, IF YOU NEED HELP OR HAVE ANY QUESTIONS ABOUT THIS WORK!
 
 Luiz Marcio Faria de Aquino Viana,Pós-D.Sc.
 E-mail: luiz.marcio.viana@gmail.com
