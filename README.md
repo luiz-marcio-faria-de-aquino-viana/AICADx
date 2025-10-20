@@ -9,7 +9,9 @@ AICADx v1.0.20250305 (CodeName: JuJu) is a Mult-Platform CAD/BIM Software develo
 # RELEASES
 
 AICADx v1.0.20250305 (CodeName: JuJu 2025) - Issue Date:  5th March, 2025
+
 AICADx v1.1.20250703 (CodeName: JuJu 2025) - Issue Date:  3rd July, 2025
+
 AICADx v1.2.20251019 (CodeName: JuJu 2025) - Issue Date: 19th Octouber, 2025
 
 # AICADx - RESUMO
@@ -86,6 +88,8 @@ YouTube: https://www.youtube.com/@tlmv6436/playlists
 CONTACT ME, IF YOU NEED HELP OR HAVE ANY QUESTIONS ABOUT THIS WORK!
 
 Luiz Marcio Faria de Aquino Viana,Pós-D.Sc.
+
 E-mail: luiz.marcio.viana@gmail.com
+
 Phone/WhatsApp: +55-21-99983-7207
 
