@@ -1,0 +1,131 @@
+/*
+ * Copyright(C) TLMV Consultoria e Sistemas EIRELI. Todos os direitos reservados.
+ *
+ * LineSample.java
+ * Autor: 
+ *   Luiz Marcio Faria de Aquino Viana, Pos-D.Sc. - Engenheiro, 03/06/2025
+ *   Unidade: Universidade do Estado do Rio de Janeiro
+ *   Curso: Engenharia Eletrica, Enfase em Engenharia de Sistemas e Computacao
+ *   Unico Socio e Administrador da Empresa - Desde: 02/08/2000
+ *
+ * Revisoes: ...
+ *
+ */
+
+package br.com.tlmv.aicadxapp.samples;
+
+import br.com.tlmv.aicadxapp.AppCadMain;
+import br.com.tlmv.aicadxapp.AppDefs;
+import br.com.tlmv.aicadxapp.cad.CadBlockDef;
+import br.com.tlmv.aicadxapp.cad.CadDocumentDef;
+import br.com.tlmv.aicadxapp.cad.CadLayerDef;
+import br.com.tlmv.aicadxapp.cad.CadLine;
+import br.com.tlmv.aicadxapp.cad.CadPoint;
+import br.com.tlmv.aicadxapp.cad.geom.GeomPoint3d;
+import br.com.tlmv.aicadxapp.cad.tables.LayerTable;
+import br.com.tlmv.aicadxapp.cad.tables.ViewTable;
+import br.com.tlmv.aicadxapp.frm.MainFrame;
+import br.com.tlmv.aicadxapp.frm.MainPanel;
+import br.com.tlmv.aicadxapp.frm.view.CompView;
+import br.com.tlmv.aicadxapp.utils.FileUtil;
+import br.com.tlmv.aicadxapp.utils.UuidUtil;
+
+public class LineSample implements ISample 
+{
+//Public
+	
+    public void initSampleData()
+    {
+    	AppCadMain cad = AppCadMain.getCad();
+
+    	CadDocumentDef oNewDoc = cad.newCadDocumentDef();
+    	if(oNewDoc != null) {
+    		ViewTable viewTbl = oNewDoc.getViewTable();
+    		CompView oNewView = viewTbl.newPlanView(oNewDoc.getName(), 0);
+    		
+        	MainPanel panel = MainPanel.getMainPanel();
+        	panel.addNewView(oNewDoc, oNewView);
+        	
+		    this.initSampleData(AppDefs.DEBUG_LEVEL, oNewDoc);
+    	}
+    }
+		
+    public void initSampleData(int debugLevel, CadDocumentDef doc)
+    {
+    	if(debugLevel != AppDefs.DEBUG_LEVEL) return;
+    	
+		CadBlockDef currBlockDef = doc.getCurrBlockDef();
+
+		LayerTable oTbl = doc.getLayerTable();
+
+		CadLayerDef oLayer = oTbl.getLayerDefByReference(AppDefs.LAYER_A_PONTOS);
+
+		//FILENAME
+		//
+		String name = doc.getName();	
+		String fileName = doc.getFileName();	
+		
+    	MainPanel panel = MainPanel.getMainPanel();
+    	
+    	MainFrame frm = MainFrame.getMainFrame();
+		frm.updateTitle(name);
+		
+		//GEOMPOINT3D
+		//
+		GeomPoint3d oPt3d0 = new GeomPoint3d(2.0, 1.0, 0.0);
+		GeomPoint3d oPt3d1 = new GeomPoint3d(2.0, 3.0, 0.0);
+		GeomPoint3d oPt3d2 = new GeomPoint3d(4.0, 5.0, 0.0);
+		GeomPoint3d oPt3d3 = new GeomPoint3d(4.0, 7.0, 0.0);
+		GeomPoint3d oPt3d4 = new GeomPoint3d(6.0, 7.0, 0.0);
+		GeomPoint3d oPt3d5 = new GeomPoint3d(6.0, 8.0, 0.0);
+		GeomPoint3d oPt3d6 = new GeomPoint3d(8.0, 8.0, 0.0);
+		
+		//CADPOINT
+		//
+		CadPoint oPt0 = CadPoint.create(currBlockDef, oLayer, oPt3d0);
+		currBlockDef.addEntity(oPt0);
+
+		CadPoint oPt1 = CadPoint.create(currBlockDef, oLayer, oPt3d1);
+		currBlockDef.addEntity(oPt1);
+
+		CadPoint oPt2 = CadPoint.create(currBlockDef, oLayer, oPt3d2);
+		currBlockDef.addEntity(oPt2);
+
+		CadPoint oPt3 = CadPoint.create(currBlockDef, oLayer, oPt3d3);
+		currBlockDef.addEntity(oPt3);
+
+		CadPoint oPt4 = CadPoint.create(currBlockDef, oLayer, oPt3d4);
+		currBlockDef.addEntity(oPt4);
+
+		CadPoint oPt5 = CadPoint.create(currBlockDef, oLayer, oPt3d5);
+		currBlockDef.addEntity(oPt5);
+
+		CadPoint oPt6 = CadPoint.create(currBlockDef, oLayer, oPt3d6);
+		currBlockDef.addEntity(oPt6);
+		
+		//CADLINE
+		//
+		CadLine oLn0 = CadLine.create(currBlockDef, oLayer, oPt3d0, oPt3d1);
+		currBlockDef.addEntity(oLn0);
+		
+		CadLine oLn1 = CadLine.create(currBlockDef, oLayer, oPt3d1, oPt3d2);
+		currBlockDef.addEntity(oLn1);
+		
+		CadLine oLn2 = CadLine.create(currBlockDef, oLayer, oPt3d2, oPt3d3);
+		currBlockDef.addEntity(oLn2);
+		
+		CadLine oLn3 = CadLine.create(currBlockDef, oLayer, oPt3d3, oPt3d4);
+		currBlockDef.addEntity(oLn3);
+		
+		CadLine oLn4 = CadLine.create(currBlockDef, oLayer, oPt3d4, oPt3d5);
+		currBlockDef.addEntity(oLn4);
+		
+		CadLine oLn5 = CadLine.create(currBlockDef, oLayer, oPt3d5, oPt3d6);
+		currBlockDef.addEntity(oLn5);
+		
+		CadLine oLn6 = CadLine.create(currBlockDef, oLayer, oPt3d6, oPt3d0);
+		currBlockDef.addEntity(oLn6);
+		
+    }
+
+}

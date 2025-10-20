@@ -1,0 +1,60 @@
+/*
+ * Copyright(C) TLMV Consultoria e Sistemas EIRELI. Todos os direitos reservados.
+ *
+ * CmdMenu.java
+ * Autor: 
+ *   Luiz Marcio Faria de Aquino Viana, Pos-D.Sc. - Engenheiro, 25/04/2025
+ *   Unidade: Universidade do Estado do Rio de Janeiro
+ *   Curso: Engenharia Eletrica, Enfase em Engenharia de Sistemas e Computacao
+ *   Unico Socio e Administrador da Empresa - Desde: 02/08/2000
+ *
+ * Revisoes: ...
+ *
+ */
+
+package br.com.tlmv.aicadxapp.cmd;
+
+import br.com.tlmv.aicadxapp.cad.utils.PromptUtil;
+import br.com.tlmv.aicadxapp.frm.BaseFrameMenu;
+import br.com.tlmv.aicadxapp.frm.MainFrame;
+import br.com.tlmv.aicadxapp.frm.MainPanel;
+import br.com.tlmv.aicadxapp.vo.InputParamVO;
+
+public class CmdMenu extends CmdBase
+{
+//Public
+	
+	public CmdMenu(String actionCommand) {
+		super(actionCommand, false, true);
+	}
+
+	/* Methodes */
+	
+	@Override
+	public void initCommand() { }
+
+	@Override
+	public void finishCommand() { }	
+
+	@Override
+	public InputParamVO promptInputParam(MainFrame frm, InputParamVO oParam)
+	{
+		InputParamVO result = null;
+		
+		PromptUtil.prompt("Change Menu...");
+		
+		result = new InputParamVO();
+		return result;
+	}
+		
+	@Override
+	public void doCommand() 
+	{
+		InputParamVO oParam = promptInputParam(this.getFrm(), null);
+		if(oParam == null) return;
+		
+		BaseFrameMenu mnu = this.getFrm().getMnu();
+		mnu.activateMenu(this.getCommandName());
+	}
+
+}
