@@ -6,6 +6,12 @@ This is a commertial project, developed by my self, and no source code will be a
 
 AICADx v1.0.20250305 (CodeName: JuJu) is a Mult-Platform CAD/BIM Software developed by my self, using my own hands. This software was created without any third part library in just 41 days. I use the Java Language, to show which any programmer can developer a good and Mult-Platform CAD/BIM Software for their use to create 3D Scenes for Games, Architectural Design Projects, and Swimming Pool Projects (Pipes and Electrical Design). This is the first version of this software, and I found a lot of Bugs making the videos. I will solve the Bugs for the next version. This project is planned for 10 months, and there a lot of work to do! Luiz Marcio Faria de Aquino Viana, Pós-D.Sc. - Electrical and Computer Engineer - Register at Engineering Concil: 2000103581 CREA-RJ - TLMV Consultoria e Sistema EIRELI - Autodesk Developer since 1989.
 
+# RELEASES
+
+AICADx v1.0.20250305 (CodeName: JuJu 2025) - Issue Date:  5th March, 2025
+AICADx v1.1.20250703 (CodeName: JuJu 2025) - Issue Date:  3rd July, 2025
+AICADx v1.2.20251019 (CodeName: JuJu 2025) - Issue Date: 19th Octouber, 2025
+
 # AICADx - RESUMO
 
 AICADx v1.0.20250305 (CodeName: JuJu) é um Software CAD/BIM, Multi-Plataforma, desenvolvido 100% por mim, sem o uso de bibliotecas e componentes de terceiros, em somente 41 dias. Eu utilizei a Linguagem Java, para mostrar que qualquer desenvolvedor pode construir um bom Software CAD/BIM, Multi-Plataforma, para a criação de Cenários de Jogos em 3D, Projeto Legal de Arquitetura, e Projeto de Piscina (Projeto de Tubulação e Elétrica). Esta é a primeira versão deste software, e eu encontrei diversos Bugs. Irei corrigir os Bugs na próxima versão. Este projeto está planejado para 10 meses, e existe muito trabalho à ser feito! Luiz Marcio Faria de Aquino Viana, Pós-D.Sc. - Electrical and Computer Engineer - Register at Engineering Concil: 2000103581 CREA-RJ - TLMV Consultoria e Sistema EIRELI - Autodesk Developer since 1989.
@@ -52,6 +58,28 @@ https://youtu.be/eLOwi0Ew2IM
 
 AICADx v1.0.20250305 (CodeName: JuJu) - Office Design Sample
 https://youtu.be/F4fCmqHnGRM
+
+# USER'S VIDEO TUTORIAL
+
+101 - Trainning Video - AICADx v1.1 (CodeName: JuJu) - Overview (2D)
+https://www.youtube.com/watch?v=OCBVpqKqqsM&list=PLV5TQNCX9Un4__YvAHuGSTq6Otkr1kaJE&index=7
+
+105 - Trainning Video - AICADx v1.1 (CodeName: JuJu) - Overview (3D)
+https://www.youtube.com/watch?v=VY95dyPxHNY&list=PLV5TQNCX9Un4__YvAHuGSTq6Otkr1kaJE&index=4
+
+110 - Trainning Video - AICADx v1.1 (CodeName: JuJu) - Public Sewage Water
+https://www.youtube.com/watch?v=-eM6qxAPHfI&list=PLV5TQNCX9Un4__YvAHuGSTq6Otkr1kaJE&index=3
+
+120 - Trainning Video - AICADx v1.1 (CodeName: JuJu) - Electrical Design the Secret of Wire Routing
+https://www.youtube.com/watch?v=TZ61u_OLCSo&list=PLV5TQNCX9Un4__YvAHuGSTq6Otkr1kaJE&index=1
+
+# REFERENCES
+
+Curriculo Lattes CNPQ: http://lattes.cnpq.br/7394201856453216
+
+LinkedIn: https://www.linkedin.com/in/luiz-marcio-faria-de-aquino-viana-pos-d-sc-b121542a0/
+
+YouTube: https://www.youtube.com/@tlmv6436/playlists
 
 # CONTATO
 
