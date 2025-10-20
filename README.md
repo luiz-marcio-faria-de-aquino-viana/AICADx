@@ -1,6 +1,10 @@
 # AICADx - IMPORTANT
 
-This is a commertial project, developed by my self, and no source code will be avaliable at this moment.
+This is a Open Source Project, which the first release was developed by my self in 32 days. 
+
+This software is been improved with modules for Electrical, Plumbimng, Gas, and Telecom support.
+
+The final release will be avaliable at March/2026.
 
 # AICADx - ABSTRACT
 
