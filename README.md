@@ -1,6 +1,6 @@
 # AICADx - IMPORTANT
 
-This is a Open Source Project, which the first release was developed by my self in 32 days. 
+This is a Open Source Project, which the first release was developed by my self in 41 days. 
 
 This software is been improved with modules for Electrical, Plumbimng, Gas, and Telecom support.
 
