@@ -26,7 +26,8 @@ AICADx v1.0.20250305 (CodeName: JuJu) é um Software CAD/BIM, Multi-Plataforma, 
 
 AICADx v1.0.20250305 (Project CodeName: JuJu)
 Início do projeto: 23/JAN/2025 (à 41 dias)
-Prazo final: 23/OUT/2025 (10 meses)
+Prazo final (Estimnado): 23/OUT/2025 (10 meses)
+Prazo final atual: FEV/2025 (4 meses)
 Autor(100%): Luiz Marcio Faria de Aquino Viana,Pós-D.Sc.
 
 Esta nova versão, já incluí suporte para construção e visualização dos seguintes objetos BIM: Piso, Paredes, Portas, Portas Duplas e Janelas.
