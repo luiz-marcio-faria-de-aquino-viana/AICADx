@@ -96,5 +96,5 @@ Luiz Marcio Faria de Aquino Viana,Pós-D.Sc.
 
 E-mail: luiz.marcio.viana@gmail.com
 
-Phone/WhatsApp: +55-21-99983-7207
+Phone: +55-21-99983-7207 - WhatsApp: +55-21-95911-5253
 
