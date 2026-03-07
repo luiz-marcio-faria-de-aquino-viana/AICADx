@@ -102,6 +102,12 @@ E-mail: luiz.marcio.viana@gmail.com
 
 Phone: +55-21-99983-7207 - WhatsApp: +55-21-95911-5253
 
+# NOTES
+
+The Software CAD/BIM "Open Source" JuJu 2025-2026 is distributed under MIT License, to permit to others developers create comertial or non-comertial products and be beneficied by my efforty and dedication to this work.
+
+* Enjoy! *
+
 # Released under MIT License
 
 Copyright (c) 2025-2026 Luiz Marcio Faria de Aquino Viana, Post-D.Sc. (COPPE/UFRJ in 2002 and 2022).
