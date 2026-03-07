@@ -100,7 +100,7 @@ YouTube: https://www.youtube.com/@tlmv6436/playlists
 
 * SANETECH Serviços de Engenharia Ltda - CNPJ: 00.804.904/0001-70 - Empresa Patrocinadora do Projeto entre Abril-Dezembro/2025, e Especialista em Projetos de Saneamento - Sócios: Eduardo De Carolis - Engenheiro Civil, André Luis da Silva - Engenheiro Civil, e Luis Trotta - Engenheiro Civil
 
-* TAURI Engenharia Ltda - CNPJ: 23.587.542/0001-08 - Empresa Especialista em Projetos de Topografia - Único Sócio: Enrique Vega Leon - Engenheiro Cartógrafo
+* TAURI Engenharia Ltda - CNPJ: 23.587.542/0001-08 - Empresa Especialista em Projetos de Topografia - Sócios: Enrique Vega Leon - Engenheiro Cartógrafo, e Ralph Perez - Engenheiro Agrimensor
 
 # CONTATO
 
