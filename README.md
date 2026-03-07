@@ -95,21 +95,19 @@ YouTube: https://www.youtube.com/@tlmv6436/playlists
 # EMPRESAS PARCEIRAS
 
 * TLMV Consultoria e Sistemas EIRELI - CNPJ: 03.999.590/0001-04
-* Empresa de Serviços de Tecnologia e Engenharia
-* Único Sócio e Engenheiro (Autor - 100%): Luiz Marcio Faria de Aquino Viana, Pós-D.Sc. - Engenheiro Eletricista com Ênfase em Engenharia de Sistemas e Computação
+Empresa de Serviços de Tecnologia e Engenharia
+Único Sócio e Engenheiro (Autor - 100%): Luiz Marcio Faria de Aquino Viana, Pós-D.Sc. - Engenheiro Eletricista com Ênfase em Engenharia de Sistemas e Computação
 
 * AQ Projetos de Instalações Ltda - CNPJ: 31.270.077/0001-05
-* Empresa Especialista em Projetos de Instalações Prediais
-* Único Sócio: José Luiz de Aquino Viana - Engenheiro Eletricista
+Empresa Especialista em Projetos de Instalações Prediais
+Único Sócio: José Luiz de Aquino Viana - Engenheiro Eletricista
 
 * SANETECH Serviços de Engenharia Ltda - CNPJ: 00.804.904/0001-70
-* Empresa Patrocinadora do Projeto entre Abril-Dezembro/2025, e Especialista em Projetos de Saneamento
-* Sócios: Eduardo De Carolis - Engenheiro Civil, André Luis da Silva - Engenheiro Civil, e Luis Trotta - Engenheiro Civil
+Empresa Patrocinadora do Projeto entre Abril-Dezembro/2025, e Especialista em Projetos de Saneamento
+Sócios: Eduardo De Carolis - Engenheiro Civil, André Luis da Silva - Engenheiro Civil, e Luis Trotta - Engenheiro Civil
 
-Empresa: TAURI Engenharia Ltda - CNPJ: 23.587.542/0001-08
-
+* Empresa: TAURI Engenharia Ltda - CNPJ: 23.587.542/0001-08
 Empresa Especialista em Projetos de Topografia
-
 Único Sócio: Enrique Vega Leon - Engenheiro Cartógrafo
 
 # CONTATO
