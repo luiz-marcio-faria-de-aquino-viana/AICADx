@@ -1,0 +1,125 @@
+/*
+ * Copyright (c) 2025-2026 TLMV Consultoria e Sistemas EIRELI.
+ *
+ * DxfSample.java
+ * Autor: 
+ *   Luiz Marcio Faria de Aquino Viana, Pos-D.Sc. - Engenheiro, 22/05/2025
+ *   Unidade: Universidade do Estado do Rio de Janeiro
+ *   Curso: Engenharia Eletrica, Enfase em Engenharia de Sistemas e Computacao
+ *   Unico Socio e Administrador da Empresa - Desde: 02/08/2000
+ *
+ * Revisoes: ...
+ *
+ */
+ 
+/*
+ * # Released under MIT License
+ *
+ * Copyright (c) 2025-2026 TLMV Consultoria e Sistemas EIRELI.
+ * 
+ * Created by Luiz Marcio Faria de Aquino Viana, Post-Doctor (COPPE/UFRJ in 1998-2002 and 2020-2022).
+ * 
+ * Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated 
+ * documentation files (the “Software”), to deal in the Software without restriction, including without limitation 
+ * the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, 
+ * and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+ * 
+ * THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED 
+ * TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL 
+ * THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF 
+ * CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS 
+ * IN THE SOFTWARE.
+ *
+ */
+
+package br.com.tlmv.aicadxapp.samples;
+
+import br.com.tlmv.aicadxapp.AppCadMain;
+import br.com.tlmv.aicadxapp.AppDefs;
+import br.com.tlmv.aicadxapp.AppMain;
+import br.com.tlmv.aicadxapp.cad.CadDocumentDef;
+import br.com.tlmv.aicadxapp.cad.ICadViewBase;
+import br.com.tlmv.aicadxapp.cad.geom.GeomPoint2d;
+import br.com.tlmv.aicadxapp.cad.tables.ViewTable;
+import br.com.tlmv.aicadxapp.cmd.CmdDxfIn;
+import br.com.tlmv.aicadxapp.frm.MainFrame;
+import br.com.tlmv.aicadxapp.frm.MainPanel;
+import br.com.tlmv.aicadxapp.frm.view.CompView;
+import br.com.tlmv.aicadxapp.frm.view.ICompView;
+import br.com.tlmv.aicadxapp.vo.ProjectRepoVO;
+
+public class DxfSample implements ISample 
+{
+//Public
+	
+    public void initSampleData()
+    {
+    	AppCadMain cad = AppCadMain.getCad();
+
+    	CadDocumentDef oNewDoc = cad.newCadDocumentDef();
+    	if(oNewDoc != null) {
+    		ProjectRepoVO projectRepo = oNewDoc.getProjectRepo();    				
+    		
+    		String name = projectRepo.getName();	
+    		//String fileName = projectRepo.getFileName();	
+
+    		ViewTable viewTbl = oNewDoc.getViewTable();
+    		CompView oNewView = viewTbl.newPlanView(name, 0);
+    		
+        	MainPanel panel = MainPanel.getMainPanel();
+        	panel.addNewView(oNewDoc, oNewView);
+        	
+		    this.initSampleData(AppDefs.DEBUG_LEVEL, oNewDoc);
+    	}
+    }
+		
+    public void initSampleData(int debugLevel, CadDocumentDef doc)
+    {
+    	if(debugLevel != AppDefs.DEBUG_LEVEL) return;
+
+		AppMain app = AppMain.getApp();
+
+		AppCadMain cad = AppCadMain.getCad();
+    	
+		//FILENAME
+		//
+		ProjectRepoVO projectRepo = doc.getProjectRepo();    				
+		
+		String name = projectRepo.getName();	
+		//String fileName = projectRepo.getFileName();	
+		
+    	MainPanel panel = MainPanel.getMainPanel();
+    	
+    	MainFrame frm = MainFrame.getMainFrame();
+		frm.updateTitle(name);
+
+    	//ExtMin
+    	//
+    	double xExtMin = 598110.5797039024;
+    	double yExtMin = 7463072.230767329;
+
+    	GeomPoint2d ptExtMin = new GeomPoint2d(xExtMin, yExtMin);
+
+    	//ExtMax
+    	//
+    	double xExtMax = 598337.6821770571;
+    	double yExtMax = 7463178.671520648;
+    	
+    	GeomPoint2d ptExtMax = new GeomPoint2d(xExtMax, yExtMax);
+    	
+    	String[] args = {
+    		"/home/lmarcio/9997-TLMV/991-SANETECH/_SAMPLES/TOPO-MANGARATIBA-R12.dxf"
+    	};
+    	
+    	CmdDxfIn cmd = new CmdDxfIn();
+    	cmd.doExecuteCommand(app, frm, cad, doc, args);
+    	
+    	ICompView cmp = panel.getCurrView();
+
+    	ICadViewBase v = cmp.getCadViewBase();
+    	v.zoomWindowMcs(ptExtMin, ptExtMax);
+    }
+
+}
