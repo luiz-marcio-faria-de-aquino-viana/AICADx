@@ -22,6 +22,8 @@ AICADx v1.1.20250703 (CodeName: JuJu 2025) - Issue Date:  3rd July, 2025
 
 AICADx v1.2.20251019 (CodeName: JuJu 2025) - Issue Date: 19th Octouber, 2025
 
+AICADx v1.4.202604091630.RC1 (CodeName: JuJu 2025-2026) - Issue Date: 9th April, 2026
+
 # AICADx - RESUMO HISTÓRICO (EM 5 DE MARÇO DE 2025)
 
 AICADx v1.0.20250305 (CodeName: JuJu) é um Software CAD/BIM, Multi-Plataforma, desenvolvido 100% por mim, sem o uso de bibliotecas e componentes de terceiros, em somente 41 dias. Eu utilizei a Linguagem Java, para mostrar que qualquer desenvolvedor pode construir um bom Software CAD/BIM, Multi-Plataforma, para a criação de Cenários de Jogos em 3D, Projeto Legal de Arquitetura, e Projeto de Piscina (Projeto de Tubulação e Elétrica). Esta é a primeira versão deste software, e eu encontrei diversos Bugs. Irei corrigir os Bugs na próxima versão. Este projeto está planejado para 10 meses, e existe muito trabalho à ser feito! Luiz Marcio Faria de Aquino Viana, Pós-D.Sc. - Electrical and Computer Engineer - Register at Engineering Concil: 2000103581 CREA-RJ - TLMV Consultoria e Sistema EIRELI - Autodesk Developer since 1989.
