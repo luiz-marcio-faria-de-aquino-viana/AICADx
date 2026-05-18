@@ -14,17 +14,9 @@ You can donate directly using PIX or requesting an Invoice and payment order.
 
 Values range from US$ 25.00 to US$ 50.00 (de R$ 125,00 ate R$ 250,00).
 
-Name: Luiz Marcio Faria de Aquino Viana, Post-Doctor (COPPE/UFRJ 1998-2002 and 2020-2022)
-E-mail: luiz.marcio.viana@gmail.com
-CPF (Brazilian Tax ID): 024.723.347-10
+BANK INFORMATION
 
-Brazilian Bank
-==============
-Bank Name: SANTANDER
-Bank Number: 033
-Store Number: 2969
-Account Number: 03025399-3
-PIX: 024.723.347-10
+Name: Luiz Marcio Faria de Aquino Viana, Post-Doctor (COPPE/UFRJ 1998-2002 and 2020-2022) - E-mail: luiz.marcio.viana@gmail.com - CPF: (Brazilian Tax ID): 024.723.347-10 - Bank Name: SANTANDER - Bank Number: 033 - Store Number: 2969 - Account Number: 03025399-3 - PIX: 024.723.347-10
 
 # AICADx - HISTORIC ABSTRACT (IN MARCH 5th, 2025)
 
