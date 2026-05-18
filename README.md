@@ -4,7 +4,27 @@ This is a Open Source Project, which the first release was developed by my self 
 
 This software is been improved with modules for Electrical, Plumbimng, Gas, and Telecom support.
 
-The final release will be avaliable at March/2026.
+The final release will be avaliable at March/2026 (Re-scheduled to August/2026).
+
+# AICADx - DONATE AND SUPPORT SOFTWARE CAD/BIM "OPEN SOURCE" JUJU 2025-2026
+
+JuJu 2025-2026 is Free Software and is made available free of charge. Your donation supports the development of future releases.
+
+You can donate directly using PIX or requesting an Invoice and payment order.
+
+Values range from US$ 25.00 to US$ 50.00 (de R$ 125,00 ate R$ 250,00).
+
+Name: Luiz Marcio Faria de Aquino Viana, Post-Doctor (COPPE/UFRJ 1998-2002 and 2020-2022)
+E-mail: luiz.marcio.viana@gmail.com
+CPF (Brazilian Tax ID): 024.723.347-10
+
+Brazilian Bank
+==============
+Bank Name: SANTANDER
+Bank Number: 033
+Store Number: 2969
+Account Number: 03025399-3
+PIX: 024.723.347-10
 
 # AICADx - HISTORIC ABSTRACT (IN MARCH 5th, 2025)
 
