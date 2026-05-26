@@ -10,13 +10,13 @@ The final release will be avaliable at March/2026 (Re-scheduled to August/2026).
 
 JuJu 2025-2026 is Free Software and is made available free of charge. Your donation supports the development of future releases.
 
-You can donate directly using PIX or requesting an Invoice and payment order.
+You can donate directly by bank deposit or requesting an Invoice and payment order.
 
 Values range from US$ 25.00 to US$ 50.00 (de R$ 125,00 ate R$ 250,00).
 
 BANK INFORMATION
 
-Name: Luiz Marcio Faria de Aquino Viana, Post-Doctor (COPPE/UFRJ 1998-2002 and 2020-2022) - E-mail: luiz.marcio.viana@gmail.com - CPF: (Brazilian Tax ID): 024.723.347-10 - Bank Name: SANTANDER - Bank Number: 033 - Store Number: 2969 - Account Number: 03025399-3 - PIX: 024.723.347-10
+Name: Luiz Marcio Faria de Aquino Viana, Post-Doctor (COPPE/UFRJ 1998-2002 and 2020-2022) - E-mail: luiz.marcio.viana@gmail.com - CPF: (Brazilian Tax ID): 024.723.347-10 - Bank Name: SANTANDER - Bank Number in Brazil: 033 - Bank Agency Number: 2969 - Bank Account Number: 03025399-3
 
 # AICADx - HISTORIC ABSTRACT (IN MARCH 5th, 2025)
 
@@ -115,6 +115,10 @@ YouTube: https://www.youtube.com/@tlmv6436/playlists
 * SANETECH Serviços de Engenharia Ltda - CNPJ: 00.804.904/0001-70 - Empresa Patrocinadora do Projeto entre Abril-Dezembro/2025, e Especialista em Projetos de Saneamento - Sócios: Eduardo De Carolis - Engenheiro Civil, André Luis da Silva - Engenheiro Civil, e Luis Trotta - Engenheiro Civil
 
 * TAURI Engenharia Ltda - CNPJ: 23.587.542/0001-08 - Empresa Especialista em Projetos de Topografia - Sócios: Enrique Vega Leon - Engenheiro Cartógrafo, e Ralph Perez - Engenheiro Agrimensor
+
+# PATROCINADORES
+
+* Alekxander Pereira Valeiko - Auditor fiscal da empresa Receita Federal
 
 # CONTATO
 
