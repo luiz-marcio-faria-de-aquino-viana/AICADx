@@ -6,6 +6,22 @@ This software is been improved with modules for Electrical, Plumbimng, Gas, and 
 
 The final release will be avaliable at March/2026 (Re-scheduled to August/2026).
 
+# AICADx - NEW ACADEMIC CHALENGE PROPOUSE! TRY BE BETTER THAN THE DOCTOR!
+
+I defeat any world wide student to create a CAD/BIM software in less than 41 days!
+
+Start creating your CAD/BIM software and register every step at YouTube.com.
+
+Publish a new video every weak to register the evolution of your work.
+
+Do this until the end of the challenge in 41 days.
+
+Then publish the final video with all the resources which you have implemented.
+
+At the end, send the link of your videos to my e-mail: luiz.marcio.viana@gmail.com
+
+Try be better than the Doctor!
+
 # AICADx - DONATE AND SUPPORT SOFTWARE CAD/BIM "OPEN SOURCE" JUJU 2025-2026
 
 JuJu 2025-2026 is Free Software and is made available free of charge. Your donation supports the development of future releases.
