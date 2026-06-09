@@ -16,6 +16,8 @@ Publish a new video every weak to register the evolution of your work.
 
 Do this until the end of the challenge in 41 days.
 
+* DON'T FORGET TO REGISTER YOUR SOFTWARE PATENT *
+
 Then publish the final video with all the resources which you have implemented.
 
 At the end, send the link of your videos to my e-mail: luiz.marcio.viana@gmail.com
