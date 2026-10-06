@@ -126,17 +126,21 @@ YouTube: https://www.youtube.com/@tlmv6436/playlists
 
 # EMPRESAS PARCEIRAS
 
-* TLMV Consultoria e Sistemas EIRELI - CNPJ: 03.999.590/0001-04 - Empresa de Serviços de Tecnologia e Engenharia - Único Sócio e Engenheiro (Autor - 100%): Luiz Marcio Faria de Aquino Viana, Pós-D.Sc. - Engenheiro Eletricista com Ênfase em Engenharia de Sistemas e Computação
+* TLMV Consultoria e Sistemas EIRELI - CNPJ: 03.999.590/0001-04 - Empresa de Serviços de Tecnologia e Engenharia - Único Sócio e Engenheiro (Autor - 100%): Luiz Marcio Faria de Aquino Viana, Pós-D.Sc. - Engenheiro Eletricista com Ênfase em Engenharia de Sistemas e Computação - Site: https://www.youtube.com/@tlmv6436/playlists
 
-* AQ Projetos de Instalações Ltda - CNPJ: 31.270.077/0001-05 - Empresa Especialista em Projetos de Instalações Prediais - Único Sócio: José Luiz de Aquino Viana - Engenheiro Eletricista
+* AQ Projetos de Instalações Ltda - CNPJ: 31.270.077/0001-05 - Empresa Especialista em Projetos de Instalações Prediais - Único Sócio: José Luiz de Aquino Viana - Engenheiro Eletricista - Site: http://aqprojetos.com.br/
 
 * SANETECH Serviços de Engenharia Ltda - CNPJ: 00.804.904/0001-70 - Empresa Patrocinadora do Projeto entre Abril-Dezembro/2025, e Especialista em Projetos de Saneamento - Sócios: Eduardo De Carolis - Engenheiro Civil, André Luis da Silva - Engenheiro Civil, e Luis Trotta - Engenheiro Civil
 
-* TAURI Engenharia Ltda - CNPJ: 23.587.542/0001-08 - Empresa Especialista em Projetos de Topografia - Sócios: Enrique Vega Leon - Engenheiro Cartógrafo, e Ralph Perez - Engenheiro Agrimensor
+* TAURI Engenharia Ltda - CNPJ: 23.587.542/0001-08 - Empresa Patrocinadora do Projeto entre Maio-Dezembro/2026, e Especialista em Projetos de Topografia - Sócios: Enrique Vega Leon - Engenheiro Cartógrafo, e Ralph Perez - Engenheiro Agrimensor - Site: https://www.tauri-eng.com/
+
+* AAArquitetura & Interiores - CNPJ: 34.624.512/0001-40 - Empresa Patrocinadora do Projeto em Outubro/2026, e Especialista em Projetos de Arquitetura - Sócios: Sueli Ramos de Aquino Viana, e Ana Cristina de Aquino Viana - Arquiteta e Urbanista - Site: https://web.facebook.com/aaarquiteturarj
 
 # PATROCINADORES
 
 * Alekxander Pereira Valeiko - Auditor fiscal da empresa Receita Federal
+
+* Familia do Almirante de Esquadra Ivan de Aquino Viana, Ph.D. - Almirante de Esquadra da Marinha do Brasil
 
 # CONTATO
 
